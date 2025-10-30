@@ -1,0 +1,8 @@
+{
+  "name": "event-request-form",
+  "version": "1.0.0",
+  "description": "Static HTML form for event requests.",
+  "scripts": {
+    "start": "echo 'This is a static site. No start script needed.'"
+  }
+}
