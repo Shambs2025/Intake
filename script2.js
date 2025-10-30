@@ -20,7 +20,7 @@ document.getElementById('eventRequestForm').addEventListener('submit', function(
 
     // 🛑 IMPORTANT: PASTE YOUR ZAPIER WEBHOOK URL HERE 
     // This is the URL Zapier provides when you set up the "Catch Hook" trigger.
-    const ZAPIER_WEBHOOK_URL = 'YOUR_ZAPIER_WEBHOOK_URL_HERE'; 
+    const ZAPIER_WEBHOOK_URL = 'https://hooks.zapier.com/hooks/catch/22999768/uigsfvb/'; 
 
     // Visual feedback while submitting
     submitBtn.textContent = 'Submitting...';
